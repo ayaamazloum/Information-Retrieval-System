@@ -1,0 +1,9 @@
+wall door floor 
+
+doc1 doc2 doc3 
+
+2 2 2 
+
+1 1 0 
+1 0 1 
+0 1 1 
